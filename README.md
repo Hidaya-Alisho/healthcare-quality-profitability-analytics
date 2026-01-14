@@ -20,14 +20,7 @@ This project analyzes the relationship between CMS hospital quality scores and f
 
 This project was completed as part of a collaborative team-based analytics initiative.
 
-My primary responsibility was leading the **Exploratory Data Analysis (EDA) and healthcare performance analysis**, including:
-- Data cleaning and preprocessing  
-- Hospital performance and profitability analysis  
-- CMS quality score benchmarking  
-- Regional and hospital-type comparisons  
-- Visualization and insight generation  
-
-I worked closely with teammates responsible for market research, machine learning modeling, unsupervised learning, and SQL reporting to ensure a unified analytical approach and a cohesive final business report.
+My primary responsibility was leading the **Exploratory Data Analysis (EDA) and healthcare performance analysis.
 
 This project reflects a real-world analytics workflow involving cross-functional collaboration, stakeholder communication, and shared ownership of deliverables.
 
