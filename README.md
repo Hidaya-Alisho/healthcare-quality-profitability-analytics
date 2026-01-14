@@ -25,7 +25,7 @@ My primary responsibility was leading the **Exploratory Data Analysis (EDA) and 
 This project reflects a real-world analytics workflow involving cross-functional collaboration, stakeholder communication, and shared ownership of deliverables.
 
 ## Tools
-- Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
+- Python 
 - Google Colab
 
 ## 📓 Interactive Notebook
